@@ -15,5 +15,23 @@ public class HomeAction {
         Home I = new Home();
         Home You = new Home();
         Home They = new Home();
+        
+        I.pintu="Kayu";
+        I.jendela="Gelap";
+        I.atap="Merah";
+        I.warna="Merah";
+        I.tipe=54;
+        
+        You.pintu="Kayu";
+        You.jendela="Bening";
+        You.atap="Biru";
+        You.warna="Biru";
+        You.tipe=45;
+        
+        They.pintu="Kayu";
+        They.jendela="Bening";
+        They.atap="Hijau";
+        They.warna="Hijau";
+        They.tipe=36;
     }
 }
