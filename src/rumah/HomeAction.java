@@ -33,5 +33,9 @@ public class HomeAction {
         They.atap="Hijau";
         They.warna="Hijau";
         They.tipe=36;
+        
+        I.cetakInfo();
+        You.cetakInfo();
+        They.cetakInfo();
     }
 }
