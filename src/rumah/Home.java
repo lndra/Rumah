@@ -14,7 +14,7 @@ public class Home {
     String jendela;
     String atap;
     String warna;
-    double tipe;
+    Integer tipe;
     
     
     void cetakInfo(){
